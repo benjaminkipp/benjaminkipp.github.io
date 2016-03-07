@@ -1,0 +1,41 @@
+body {
+	background: #D3D3D3;
+	font-family: Georgia, serif;
+	height: 75%;
+	margin-left: 
+}
+h1 {
+	font-size: 24;
+	color: #0000FF;
+	text-align: center;
+}
+h3 {
+	font-size: 16;
+	color: #556B2F;
+	text-align: left;
+}
+h2 {
+	font-size: 18;
+	color: #000000;
+	text-align: center;
+}
+h4 {
+	font-size: 12;
+	color: #D2691E;
+	text-align: center;
+}
+.summary {
+	padding: 30px;
+	border: 2px solid black;
+	text-align: center;
+}
+.activities {
+	padding: 30px;
+	border: 2px solid black;
+	text-align: left;
+}
+.education {
+	padding: 30px;
+	border: 2px solid black;
+	text-align: left;
+}
